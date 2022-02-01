@@ -52,6 +52,8 @@ area_hexagono = 3*(math.sqrt(3))*(a**2)/2
 print('El área del hexágono es: {} cm^2'.format(area_hexagono))
 
 # Ejercicio 4
+# NOTA: Aqui ya no usamos try-catch porque el profe dijo que no era necesario
+
 print('---- Ejercicio 4 ----')
 # Cuadrado
 l = float(input('Escriba la longitud del lado del cuadrado en cm: '))

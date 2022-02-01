@@ -88,6 +88,7 @@ lado_hex = 5
 print('El area del hexágono es: {} cm^2'.format(area_hexagono(lado_hex)))
 
 # Ejercicio 4
+# NOTA: Aqui ya no usamos try-catch porque el profe dijo que no era necesario
 print('--- Ejercicio 4 ---')
 # Cuadrado
 lado = float(input('Escriba la longitud del lado del cuadrado en cm: '))
